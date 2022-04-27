@@ -1,0 +1,3 @@
+Accelerometer	KEYWORD1
+getPitch	KEYWORD2
+getRoll	KEYWORD2
